@@ -1,0 +1,2 @@
+# index.js
+Hello world
